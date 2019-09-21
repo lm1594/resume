@@ -32,3 +32,10 @@
     
     >정보계 BI 개발 ( BI Maxtrix 이용)
  * URL : http://www.childfund.or.kr/main.do
+ 
+ ## 보유기술 및 사용가능 라이브러리
+ * JAVA(~8), JavaScript (ES6) , Ajax, HTML5, CSS3
+ * Spring Framework, Spring Boot, Spring Batch, Nexcore, BootStrap, jQuery
+ * Apache, Tomcat, Oracle
+ * GitLab, maven, bash, Ezgen, FormDe
+ * Linux, Unix, Windows
