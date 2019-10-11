@@ -28,6 +28,8 @@
     
     >홈페이지 & 홈페이지 관리자 개발
     
+    >WEB & MOBILE 
+    
     >대외계와 기간계 데이터 공유를 위해 Restful API를 개발
     
     >정보계 BI 개발 ( BI Maxtrix 이용)
