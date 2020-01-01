@@ -9,21 +9,36 @@
 ### 초록우산어린이재단 통합정보시스템 및 데이터분석시스템 2차 구축
  * 소개 : 어린이재단 데이터 품질개선, 정보시스템통합 2차 구축, 전체 DB 데이터 마이그레이션을 통한 서업 간 유기적 협력 및 시너지 창출, 데이터기반의 의사결정 지원, 마케팅 효율 극대화 및 전사 성과 측정, 업무효율화와 데이터신뢰성 확보 사업
  * 소속 : (주)이포넷
- * 기간 : 2019.9 ~ 
+ * 기간 : 2019.11 ~ 
  * 역할
     >JAVA 개발
     
     >사업관리 업무 추가 개발 및 운영
  * 사용기술
-    >JSP
+    >Web backend (Java, Spring Boot, Oracle)
     
-    >JAVA SPRING BOOT
+    >Web Frontend (HTML5, CSS3, JS ES6, SPA, JQuery)
     
-    >MAVEN
+    >Versioning : Git 협업 플로우 (Git Lab, Tortoise Git)
     
-    >MYBATIS
+### ‘체리’ 앱 개발
+ * 소개 : KISA 탈 중앙화 기부 플랫폼
+ * 소속 : (주)이포넷
+ * 기간 : 2019.09 ~ 2019.10
+ * 역할
+    >JAVA 개발
     
-    >ORACLE
+    >Hybrid 앱의 모바일 웹 개발
+    
+    >MY페이지 설정하기 개발 (Android, ios 인터페이스 이용)
+     ex) 내 정보수정, 비밀번호변경, 생체 인증 기능 설정 등
+ * 사용기술
+    >Web Backend (Java, Spring Boot, MSA, PostgreSQL)
+    
+    >Web Frontend (Thymeleaf, CSS3, JS ES6, SPA, JQuery)
+    
+    >Versioning : Git 협업 플로우 (Git LAB), Slack, ONLYOFFICE
+
 ### 한국투자증권 체크카드시스템 개발
  * 소개 : BC카드와 연계하여 한국투자증권 자체 체크카드시스템 구축
  * 소속 : (주)이포넷
@@ -36,18 +51,14 @@
     >상품/가맹점업무 개발
     
     >사고/한도업무 개발
-  * 사용기술
-    >FORMDE
-    
-    >JAVA NEXCORE FRAMEWORK
-    
-    >ORACLE
-    
-    >IBM
-    
-    >SPRING BATCH
     
     >BC전문 송수신
+  * 사용기술
+    >Web Backend (Java, Spring Batch, Nexcore Framework, Oracle, 전문)
+    
+    >Web Frontend (FormDE)
+    
+    >Versioning : IBM Rational Software 이용
   * URL : https://news.v.daum.net/v/20190925142627212
  ### 초록우산어린이재단 통합정보시스템 및 데이터분석시스템 2차 구축
  * 소개 : 어린이재단 데이터 품질개선, 정보시스템통합 2차 구축, 전체 DB 데이터 마이그레이션을 통한 서업 간 유기적 협력 및 시너지 창출, 데이터기반의 의사결정 지원, 마케팅 효율 극대화 및 전사 성과 측정, 업무효율화와 데이터신뢰성 확보 사업
@@ -64,15 +75,13 @@
     
     >정보계 BI 개발 ( BI Maxtrix 이용)
  * 사용기술
-    >JSP
+    >Web backend (Java, Spring Boot, Oracle)
     
-    >JAVA SPRING BOOT
+    >Web Frontend (HTML5, CSS3, JS ES6, SPA, JQuery)
     
-    >MAVEN
+    >Versioning : Git 협업 플로우 (Git Lab, Tortoise Git)
     
-    >MYBATIS
-    
-    >ORACLE
+    >Dependency Management : 모듈화로 의존성을 줄이고 유지보수성을 높임 (Maven, Nexus)
  * URL : http://www.childfund.or.kr/main.do
  
  ## 보유기술 및 사용가능 라이브러리
