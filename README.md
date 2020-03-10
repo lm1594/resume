@@ -24,6 +24,10 @@
     
     >Versioning : Git 협업 플로우 (Git LAB), Slack, ONLYOFFICE
 
+    <div>
+    <img width="200" src="https://user-images.githubusercontent.com/33918330/76277429-0f6eee00-62cc-11ea-96a9-6dd6ca6fd050.png">
+    </div>
+
 
 ### 한국투자증권 체크카드시스템 개발
  * 소개 : BC카드와 연계하여 한국투자증권 자체 체크카드시스템 구축
