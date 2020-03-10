@@ -13,11 +13,11 @@
  * 역할
     >JAVA 개발
     
-    >사업관리업무 개발 및 운영
+    >사업관리업무 기능개선 개발 및 운영
     
-    >DOUZONE 그룹웨어를 통한 결재 프로세스
+    >[DOUZONE] 그룹웨어를 통한 결재 프로세스
     
-    >ERP와 예산 데이터 연계
+    >[DOUZONE] ERP와 예산 데이터 연계
 
  * 사용기술
     >Web backend (Java, Spring Boot, Oracle)
