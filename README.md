@@ -25,7 +25,7 @@
     >Versioning : Git 협업 플로우 (Git LAB), Slack, ONLYOFFICE
 
     <div>
-    <img width="200" src="https://user-images.githubusercontent.com/33918330/76277429-0f6eee00-62cc-11ea-96a9-6dd6ca6fd050.png">
+    <img width="1000" src="https://user-images.githubusercontent.com/33918330/76277429-0f6eee00-62cc-11ea-96a9-6dd6ca6fd050.png">
     </div>
 
 
