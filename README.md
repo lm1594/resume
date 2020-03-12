@@ -54,7 +54,6 @@
     <img width="1000" src="https://user-images.githubusercontent.com/33918330/76277429-0f6eee00-62cc-11ea-96a9-6dd6ca6fd050.png">
     </div>
 
-
 ### 한국투자증권 체크카드시스템 개발
  * 소개 : BC카드와 연계하여 한국투자증권 자체 체크카드시스템 구축
  * 소속 : (주)이포넷
@@ -76,6 +75,9 @@
     
     >Versioning : IBM Rational Software 이용
   * URL : https://news.v.daum.net/v/20190925142627212
+    <div>
+        <img width="300" src="https://user-images.githubusercontent.com/33918330/76483716-16783680-645b-11ea-9cf6-aa5f1f54321b.png">
+    </div>
   
   
 ### 초록우산어린이재단 통합정보시스템 및 데이터분석시스템 2차 구축
