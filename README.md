@@ -76,7 +76,7 @@
     >Versioning : IBM Rational Software 이용
   * URL : https://news.v.daum.net/v/20190925142627212
     <div>
-        <img width="300" src="https://user-images.githubusercontent.com/33918330/76483716-16783680-645b-11ea-9cf6-aa5f1f54321b.png">
+        <img width="300" src="https://user-images.githubusercontent.com/33918330/76483799-517a6a00-645b-11ea-9458-fad0f495b860.png">
     </div>
   
   
