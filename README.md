@@ -150,6 +150,8 @@
     
     * 학습 내용
     
+    >BootStrap을 이용한 반응형 웹개발
+    
     >Spring Boot + jsp + MyBatis + MySQL 환경구축
     
     >Apache tiles, Logback, AOP Transaction 등 어노테이션 환경설정
