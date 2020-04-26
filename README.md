@@ -147,7 +147,3 @@
     >Web Frontend (HTML5, CSS3, JS ES6, SPA, JQuery
     
     >Dependency Management : Maven
-    
-    <div>
-        <img width="300" src="https://user-images.githubusercontent.com/33918330/76483799-517a6a00-645b-11ea-9458-fad0f495b860.png">
-    </div>
