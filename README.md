@@ -147,3 +147,13 @@
     >Web Frontend (HTML5, CSS3, JS ES6, SPA, JQuery
     
     >Dependency Management : Maven
+    
+    * 학습 내용
+    
+    >Spring Boot + jsp + MyBatis + MySQL 환경구축
+    
+    >Apache tiles, Logback, AOP Transaction 등 어노테이션 환경설정
+    
+    >공공데이터 포탈API 서비스 신청 및 가이드 문서를 보고 공통모듈로 개발
+    
+    >프로젝트 수행을 위한 전체 환경을 구성하고 공공데이터 포탈 API를 이용한 조회서비스를 구현해보며 웹 프로젝트의 동작 구조 및 사용되는 기술들을 공부함.
