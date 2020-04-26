@@ -139,3 +139,9 @@
     
  * 공공 API를 이용한 정보 제공 웹앱
     > https://github.com/lm1594/Ww
+    * 사용기술
+    >Web backend (Java, Spring Boot, MySQL)
+    
+    >Web Frontend (HTML5, CSS3, JS ES6, SPA, JQuery
+    
+    >Dependency Management : Maven
