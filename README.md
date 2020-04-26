@@ -132,3 +132,7 @@
  * GitLab, maven, bash, Ezgen, FormDe
  * Linux, Unix, Windows
  * MSA
+ 
+ ## 개인 프로젝트
+ * 토비의 스프링 3.1 Vol1
+ * 공공 API를 이용한 정보 제공 웹앱
