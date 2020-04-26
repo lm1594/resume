@@ -127,7 +127,7 @@
  
  ## 보유기술 및 사용가능 라이브러리
  * JAVA(~8), JavaScript (ES6) , Ajax, HTML5, CSS3, Thymeleaf
- * Spring Framework, Spring Boot, Spring Batch, Nexcore, BootStrap, jQuery
+ * Spring Framework, Spring Boot, Spring Batch, Nexcore, BootStrap, jQuery, TypeScript, TypeORM, React Framework, NodeJs
  * Apache, Tomcat, Oracle, PostgreSQL, MySQL
  * GitLab, maven, bash, Ezgen, FormDe
  * Linux, Unix, Windows
