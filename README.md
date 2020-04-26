@@ -137,7 +137,7 @@
  * 토비의 스프링 3.1 Vol1
     > https://github.com/lm1594/SpringStudy
     
- * 공공 API를 이용한 정보 제공 웹앱
+ * 오디?오디! (공공API를 이용한 모바일 웹)
     > https://github.com/lm1594/Ww
     
     * 사용기술
