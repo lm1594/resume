@@ -135,4 +135,7 @@
  
  ## 개인 프로젝트
  * 토비의 스프링 3.1 Vol1
+    > https://github.com/lm1594/SpringStudy
+    
  * 공공 API를 이용한 정보 제공 웹앱
+    > https://github.com/lm1594/Ww
