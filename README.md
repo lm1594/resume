@@ -18,6 +18,8 @@
     >상품/가맹점업무 개발
     
     >사고업무 개발
+    
+    >배치관리 
 
  * 사용기술
     >Web backend (Nodejs, TypeORM, TypeScript, PostgreSQL)
