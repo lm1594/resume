@@ -19,7 +19,11 @@
     
     >사고업무 개발
     
-    >배치관리 
+    > 카드 발급, 배송, 반송, 발송 등 내역 수신 배치 프로그램
+ 
+    >전문 대외 송수신 로그 관리
+ 
+    >계정 처리 내역 관리 
 
  * 사용기술
     >Web backend (Nodejs, TypeORM, TypeScript, PostgreSQL)
