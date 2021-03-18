@@ -12,6 +12,51 @@
 
 
 ## 프로젝트    
+### [KG이니시스] WPAY간편결제 시스템 운영 유지 보수(화면UI, API)
+ * 소개 : 가맹점이 가지고 있는 각 브랜드 이미지에 맞게 가맹점 자체 간편결제 서비스인 것처럼
+커스터마이징이 가능한 간편결제 서비스 운영 및 유지 보수(Standard, PRO버전)
+ * 소속 : KG 이니시스
+ * 기간 : 2020.09 ~
+ * 역할
+    >JAVA 웹 개발
+    
+    >가맹점 별 간편결제 화면UI 개선 및 유지보수
+    
+    >간편결제 API 개선 및 유지보수
+
+ * 사용기술
+    >Web backend (Java, Spring4, Oracle)
+
+    >Web Frontend (HTML5, CSS3, JS ES6, Ajax)
+
+    >Versioning : Git 협업 플로우 (GitLab)
+    
+    >Dependency Management : 모듈화로 의존성을 줄이고 유지보수성을 높임 (Maven, Nexus)
+    
+* URL : http://www.inicis.com/wpay/
+
+### [KG이니시스] WPAY간편결제 PRO 버전 개발_W컨셉
+ * 소개 : W컨셉(W.페이) 자체 간편결제 개발
+ * 소속 : KG 이니시스
+ * 기간 : 2020.12 ~ 2021.02
+ * 역할
+    >JAVA 웹 개발
+    
+    >W컨셉 간편결제 화면UI 개발(웹, 모바일)
+    
+    >간편결제 API 개발 
+
+ * 사용기술
+    >Web backend (Java, Spring4, Oracle)
+
+    >Web Frontend (HTML5, CSS3, JS ES6, Ajax)
+
+    >Versioning : Git 협업 플로우 (GitLab)
+    
+    >Dependency Management : 모듈화로 의존성을 줄이고 유지보수성을 높임 (Maven, Nexus)
+    
+* URL : https://user-images.githubusercontent.com/33918330/111024112-351f5d80-8420-11eb-9f91-ef4c63712b98.png
+
 ### [차이코퍼레이션] 체크카드시스템 구축 (국제)
  * 소개 : BC카드와 연계하여 차이코퍼레이션[차이페이] 자체 체크카드시스템 구축
  * 소속 : (주)이포넷
