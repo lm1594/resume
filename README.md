@@ -57,6 +57,8 @@
     >Web Frontend (HTML5, CSS3, JS ES6, SPA, React Framework)
 
     >Versioning : Git 협업 플로우 (Gitea), Slack
+    
+* URL : https://chai.finance/card/index.html
 
 
 ### 초록우산어린이재단 차세대통합정보시스템 기능 보강  
