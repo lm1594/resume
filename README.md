@@ -55,7 +55,10 @@
     
     >Dependency Management : 모듈화로 의존성을 줄이고 유지보수성을 높임 (Maven, Nexus)
     
-* URL : https://user-images.githubusercontent.com/33918330/111024112-351f5d80-8420-11eb-9f91-ef4c63712b98.png
+#* URL : https://user-images.githubusercontent.com/33918330/111024112-351f5d80-8420-11eb-9f91-ef4c63712b98.png
+  <div>
+  <img width="1000" src="https://user-images.githubusercontent.com/33918330/111024112-351f5d80-8420-11eb-9f91-ef4c63712b98.png">
+  </div>
 
 ### [차이코퍼레이션] 체크카드시스템 구축 (국제)
  * 소개 : BC카드와 연계하여 차이코퍼레이션[차이페이] 자체 체크카드시스템 구축
