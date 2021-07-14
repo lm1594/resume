@@ -45,6 +45,28 @@
     
 * URL : http://www.inicis.com/wpay/
 
+### WPAY간편결제 PRO 버전 개발_하이마트
+ * 소개 : 하이마트(하이마트페이) 자체 간편결제 개발
+ * 소속 : KG 이니시스
+ * 기간 : 2021.03 ~ 2021.06
+ * 역할
+    >JAVA 웹 개발
+    
+    >신용카드 간편결제 
+    
+    >W컨셉 간편결제 화면UI 개발(웹, 모바일)
+    
+    >간편결제 API 개발 
+
+ * 사용기술
+    >Web backend (Java, Spring4, Oracle)
+
+    >Web Frontend (HTML5, CSS3, JS ES6, Ajax)
+
+    >Versioning : Git 협업 플로우 (GitLab)
+    
+    >Dependency Management : 모듈화로 의존성을 줄이고 유지보수성을 높임 (Maven, Nexus)
+
 ### WPAY간편결제 PRO 버전 개발_W컨셉
  * 소개 : W컨셉(W.페이) 자체 간편결제 개발
  * 소속 : KG 이니시스
